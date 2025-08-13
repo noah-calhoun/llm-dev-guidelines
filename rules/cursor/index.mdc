@@ -1,0 +1,49 @@
+---
+description: Central index for all active Cursor rules within this repository, organized by category
+globs: 
+alwaysApply: true
+---
+# Notification Service Gateway - Master Rule Index
+
+This document serves as the central index for all active Cursor rules within this repository, organized by category. These rules define processes, structures, and guidelines for development.
+
+## Core & General
+
+Fundamental project structure, setup, and general development guidelines.
+
+| Rule File                          | Description                                                 |
+| :--------------------------------- | :---------------------------------------------------------- |
+| @cursor-rules.mdc                  | How to add or edit Cursor rules in our project              |
+
+## Development Guidelines
+
+Code style, architecture, and development best practices.
+
+| Rule File                          | Description                                                 |
+| :--------------------------------- | :---------------------------------------------------------- |
+| @code-consistency.mdc              | Code style consistency and pattern recognition guidelines   |
+| @code-quality.mdc                  | Coding guidelines for clean, maintainable code              |
+
+## Testing
+
+Guidelines for application testing and quality assurance.
+
+| Rule File                          | Description                                                 |
+| :--------------------------------- | :---------------------------------------------------------- |
+| @vitest-rules.mdc                  | Guidelines for writing unit tests with Vitest               |
+
+## Documentation
+
+Guidelines for creating and maintaining project documentation.
+
+| Rule File                          | Description                                                 |
+| :---------------------------------------------------------- | :---------------------------------------------------------- |
+| @docs-rules.mdc                    | Guidelines for creating user-friendly "How To" documentation|
+
+## Rule Management
+
+Guidelines for managing and organizing cursor rules.
+
+| Rule File                          | Description                                                 |
+| :---------------------------------------------------------- | :---------------------------------------------------------- |
+| @index.mdc                         | This file - central index for all cursor rules              |
