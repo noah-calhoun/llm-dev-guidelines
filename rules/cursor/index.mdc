@@ -23,6 +23,7 @@ Code style, architecture, and development best practices.
 | :--------------------------------- | :---------------------------------------------------------- |
 | @code-consistency.mdc              | Code style consistency and pattern recognition guidelines   |
 | @code-quality.mdc                  | Coding guidelines for clean, maintainable code              |
+| @concise-communication.mdc         | Guidelines for concise, token-efficient communication       |
 
 ## Testing
 
